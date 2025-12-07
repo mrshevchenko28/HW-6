@@ -1,0 +1,24 @@
+.styled-table {
+    border : 5px solid black;
+    width: 400px;
+    height: 400px;
+    border-spacing: 0;
+    padding: 0;
+}
+.styled-table td.red {
+    background: red;
+}
+.styled-table td.white {
+    background: white;
+}
+.styled-table td.blue {
+    background: blue;
+}
+.styled-table td.green {
+    background: green;
+}
+td {
+    border: 5px solid black;
+    width: 100px;
+    height: 100px;
+}
